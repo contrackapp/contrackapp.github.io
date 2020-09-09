@@ -1,9 +1,12 @@
 {
-  "app.css": "./dist/app.css?hash=8ecf1c2594bcba6f575c",
-  "app.js": "./dist/app.js?hash=8ecf1c2594bcba6f575c",
+  "app.css": "./dist/app.css?hash=e414d5f8dec0e7c294df",
+  "app.js": "./dist/app.js?hash=e414d5f8dec0e7c294df",
   "images/contact_list-min.jpg": "./dist/images/contact_list-min.jpg",
   "images/favicon.ico": "./dist/images/favicon.ico",
   "images/fillup-min.jpg": "./dist/images/fillup-min.jpg",
   "images/logo.png": "./dist/images/logo.png",
-  "images/scan-min.jpg": "./dist/images/scan-min.jpg"
+  "images/scan-min.jpg": "./dist/images/scan-min.jpg",
+  "images/vector/add_contact.png": "./dist/images/vector/add_contact.png",
+  "images/vector/qr_scan.png": "./dist/images/vector/qr_scan.png",
+  "images/vector/scan_and_share.png": "./dist/images/vector/scan_and_share.png"
 }
