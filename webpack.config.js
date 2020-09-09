@@ -3,6 +3,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const ManifestPlugin = require('webpack-manifest-plugin');
 const isProduction = process.env.NODE_ENV === 'production';
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
     mode: isProduction ? 'production' : 'development',
@@ -35,6 +36,11 @@ module.exports = {
         new CleanWebpackPlugin(),
         new MiniCssExtractPlugin({
             filename: isProduction ? '[name].css?hash=[hash]' : '[name].css'
+        }),
+        new CopyWebpackPlugin({
+            patterns: [
+                { from: './assets/images', to: './images' },
+            ],
         }),
         new ManifestPlugin({
             fileName: '../_data/manifest.yml',

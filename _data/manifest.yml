@@ -1,4 +1,9 @@
 {
-  "app.css": "./dist/app.css?hash=9389df059704a08d19fb",
-  "app.js": "./dist/app.js?hash=9389df059704a08d19fb"
+  "app.css": "./dist/app.css?hash=8ecf1c2594bcba6f575c",
+  "app.js": "./dist/app.js?hash=8ecf1c2594bcba6f575c",
+  "images/contact_list-min.jpg": "./dist/images/contact_list-min.jpg",
+  "images/favicon.ico": "./dist/images/favicon.ico",
+  "images/fillup-min.jpg": "./dist/images/fillup-min.jpg",
+  "images/logo.png": "./dist/images/logo.png",
+  "images/scan-min.jpg": "./dist/images/scan-min.jpg"
 }
