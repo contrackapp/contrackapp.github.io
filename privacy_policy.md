@@ -6,7 +6,7 @@ title: Home
 <div class="flex flex-col text-gray-700 roboto font-medium justify-center items-center w-full mt-5">
 	<div class="mb-5">
 		<div class="">
-			<strong class="font-bold">Privacy Policy for  CONTRACK</strong>
+			<strong class="font-bold">PRIVACY POLICY</strong>
 		</div>
 	</div>
 	<div class="w-1/2 mb-5">
