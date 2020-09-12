@@ -24,8 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-app_version: '1.1.0'
-download_android: 'https://github.com/contrackapp/contrackapp/releases/download/v1.1.0/1.1.0.apk'
+app_version: '1.2.0'
+download_android: 'https://github.com/contrackapp/contrackapp/releases/download/v1.2.0/1.2.0-contrackapp.apk'
 
 # Build settings
 markdown: kramdown
